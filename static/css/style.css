@@ -1,0 +1,16 @@
+ @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+  *{
+  margin:0;
+  padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;  
+}
+html{
+  scroll-behavior: smooth;
+  font-family: "HCo Gotham SSm",Helvetica,Arial,sans-serif;
+line-height: 28.64px
+}
+  ::-webkit-scrollbar{
+    display: none;
+  } 
