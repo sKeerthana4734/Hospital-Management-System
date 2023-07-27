@@ -16,4 +16,4 @@ This is a mini-project created to implement a simple Hospital Management System 
 ![Screenshot (236)](https://user-images.githubusercontent.com/91558152/161418266-1e408507-6b82-4f80-93be-217252a36686.png)
 
 
-## Contact me at <a>skeerthana4734@gmail.com<a/>
+#### Contact: <a>skeerthana4734@gmail.com<a/>
